@@ -1,1 +1,1 @@
-<img src="client\src\img\screen.png">
+<img src="src\img\screen.png">
